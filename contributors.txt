@@ -1,0 +1,11 @@
+# Contributors
+
+## Repository Owner
+## Repository Owner
+Joshua Kamunda - Creator and Main Developer
+
+## Collaborators
+Chitundu Nakanyika - Added via Pull Request
+- Date: February 5, 2026
+- Contribution: Code review and collaboration testing
+- Course: CSC4631 - Software Maintenance & Evolution
